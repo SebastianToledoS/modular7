@@ -134,4 +134,5 @@ tarea_clinica/
 - El campo RUT debe ser único para cada paciente
 - El número de registro médico debe ser único para cada médico
 
+Creadores: Alfoso Basterrechea, Viviana Canales, Cristofer Henríquez, Sebastián Toledo.
 
